@@ -653,22 +653,3 @@ policy_cnn_nn.pt                     # Trained CNN DQN weights
    > Foundational RL theory including MDPs, Q-learning, and value function approximation.
 
 ---
-
-## 👥 Team
-
-**DREAM** — UNSW Sydney COMP9444 Neural Networks and Deep Learning
-
-| Name | Student ID |
-|------|-----------|
-| Alex Wang | z5420393 |
-| Dhwanish Kshatryia | z5421168 |
-| Evan Xiong | z5421149 |
-| Michael Wang | z5421148 |
-| Rohan Agarwal | z5423480 |
-
----
-
-## 📄 License
-
-This project was developed for academic purposes as part of UNSW Sydney's COMP9444 course. All rights reserved by the project authors. This code may not be reproduced, redistributed, or used for commercial purposes without explicit permission from the authors. Please refer to UNSW's academic integrity policies for usage guidelines.
-
