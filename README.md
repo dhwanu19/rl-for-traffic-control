@@ -613,8 +613,8 @@ rl-for-traffic-control/
 │   ├── Cells 19–26                 #   Training (Dense DQN, CNN DQN, Baseline)
 │   └── Cells 27–37                 #   Evaluation, comparison plots
 │
-├── COMP9444_Project_Report_DREAM.pdf   # Full technical project report
-├── COMP9444_Presentation_DREAM.pptx   # Project presentation slides
+├── Report.pdf   # Full technical project report
+├── _Presentation.pptx   # Project presentation slides
 │
 ├── method_img1.jpg                  # Traffic phase diagram — Phase 0
 ├── method_img2.jpg                  # Traffic phase diagram — Phase 1
