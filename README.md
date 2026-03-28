@@ -1,7 +1,6 @@
 # 🚦 RL for Traffic Control — DREAM Project
 
 > **Deep Reinforcement learning for Efficient Adaptive Management of traffic** (DREAM)  
-> UNSW Sydney · COMP9444 Neural Networks and Deep Learning
 
 A Deep Reinforcement Learning system that trains agents to adaptively control traffic light signals at a four-way urban intersection, dramatically outperforming fixed-time baselines and reducing average driver wait times by over 50%.
 
